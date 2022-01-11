@@ -1,0 +1,9 @@
+key='8ae09f0e-4d41-45cf-988c-545e62fe4aac'
+app_name="bblov"
+deviceid="322C2E68A6BCDD710FEA9D357887D3B24B62911F54BA1E4D971EFD3129BFA6BD266162E2D7B7CBA74E"
+emaill="lv0pfwsde66@1secmail.net"
+passwordd="ixd123"
+custompwd="indianxd"
+url="https://ElatedSlipperyArchive.crimsondead.repl.co"
+chatlink="http://aminoapps.com/p/3s2pzw"
+nickname="Jk"
