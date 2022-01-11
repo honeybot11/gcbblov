@@ -4,6 +4,6 @@ deviceid="322C2E68A6BCDD710FEA9D357887D3B24B62911F54BA1E4D971EFD3129BFA6BD266162
 emaill="lv0pfwsde66@1secmail.net"
 passwordd="ixd123"
 custompwd="baby123"
-url="https://ElatedSlipperyArchive.crimsondead.repl.co"
+url="https://Accbot3-bb.honeybot11.repl.co"
 chatlink="http://aminoapps.com/p/52lpcf"
 nickname="Jk"
